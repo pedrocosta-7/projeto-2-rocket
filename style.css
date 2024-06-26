@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+
+}
+
+body{ 
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+main { 
+    display: block;
+    margin: 64px auto;
+}
+strong{
+    color: #3F3D56;
+}
+
+
+
+span {
+    color: #EE24FF;
+}
+h1 {
+    font-size: 32px;
+    margin-top: 32px;
+   
+}
+p{
+    margin-top: 16px;
+    color: #828282;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+#footer {
+    display: flex;
+    gap: 42px;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+#wave {
+    position: fixed;
+    width: 100vw;
+    height: 104px;
+    bottom: 0;
+    left: 0;
+  }
